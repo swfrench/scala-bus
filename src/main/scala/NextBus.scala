@@ -1,5 +1,5 @@
 
-/** A simple interface for querying the Next Bus XML Feed REST API
+/** A simple interface for querying the NextBus public XML Feed REST API
   * 
   * Currently supports only a limited subset of the API, in particular the
   * "routeList", "routeConfig", and "predictions" commands.
